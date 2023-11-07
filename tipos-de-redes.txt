@@ -1,0 +1,5 @@
+Tipos de redes: 
+PAN: Personal Area Network, es un tipo de red entre dispositivos cerca de una persona.
+LAN: Local Area Network tipo de red de área limitada pero más extensa que la red tipo LAN. Sirve para la comunicación entre dispositivos cercanos. 
+MAN: Metropolitan Area Network, tipo de red más amplia pero delimitada. Su extensión es similar a la de un campus.
+WAN: Wide Area Network red amplia que utiliza medios como satélites, fibra óptica pública, cables interoceánicos e internet.
